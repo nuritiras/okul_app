@@ -39,3 +39,5 @@ flutter run
 * Listedeki bir öğrencinin yanındaki **Kalem** ikonuna basarak bilgilerini güncelleyebilir, **Çöp Kutusu** ikonuna basarak silebilirsiniz.
 * Sağ üstteki **Yenile** ikonuna basarak sunucudaki güncel verileri anında çekebilirsiniz.
 ```
+<img width="1275" height="855" alt="Ekran Görüntüsü 2026-03-26 10-14-26" src="https://github.com/user-attachments/assets/86140657-c086-4097-992f-ccadbb5bfa7f" />
+
